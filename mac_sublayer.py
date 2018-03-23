@@ -15,6 +15,9 @@ Initial idea of the simulator:
 4. Display slot allocation
 5. Display results/summary
 
+TODO: READ MORE ON WHICH PROTOCOL TO IMPLEMENT AND HOW.
+REFERENCE: https://github.com/Thundercats/LAN-MAC-Protocol-Simulator/blob/master/src/lmp/Network.java
+
 '''
 
 import random
