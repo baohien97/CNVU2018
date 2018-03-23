@@ -1,2 +1,3 @@
 # CNVU2018
 [Archive] All assignments for Computer Networks Spring 2018 p4
+TODO AFTER COURSE's END: IMPLEMENT MAC SUBLAYER, TELNET CLIENT, BOTNET 
